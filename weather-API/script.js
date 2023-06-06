@@ -117,7 +117,7 @@ para4.innerHTML="wind Speed";
 div8.appendChild(para4)
 let apiKey ="a5004c345143bf373b4af35556f3cb5c";
 
-let apiUrl ="https://api.openweathermap.org/data/2.5/weather?unit=metric&q=";
+let apiUrl ="https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
 
 let searchBox1 = document.querySelector('.search input');
 let searchbtn = document.querySelector('.search button');
